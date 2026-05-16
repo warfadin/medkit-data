@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "id": "mash",
+  "title": "MASH",
+  "specialty": "Gastroenteroloji / Hepatoloji",
+  "lastUpdated": "2026-05-17",
+  "overview": "NAFLD/NASH terminolojisinden MASLD/MASH yaklaşımına geçiş ve güncel AASLD önerilerindeki önemli değişiklikler.",
+  "sources": [
+    {
+      "id": "aasld_nafld_2018",
+      "name": "The Diagnosis and Management of Nonalcoholic Fatty Liver Disease",
+      "organization": "AASLD",
+      "year": 2018,
+      "url": "https://www.aasld.org/",
+      "version": "AASLD"
+    },
+    {
+      "id": "aasld_masld_2024",
+      "name": "AASLD Practice Guidance on MASLD/MASH",
+      "organization": "AASLD",
+      "year": 2024,
+      "url": "https://www.aasld.org/",
+      "version": "AASLD"
+    }
+  ],
+  "updates": [
+    {
+      "id": "nafld_to_masld",
+      "title": "NAFLD/NASH terminolojisi MASLD/MASH olarak değişti",
+      "summary": "Yeni yaklaşım metabolik disfonksiyon vurgusunu öne çıkarıyor.",
+      "oldRecommendation": "Önceki terminoloji NAFLD ve NASH terimlerini kullanıyordu.",
+      "newRecommendation": "Yeni nomenklatürde MASLD ve MASH terimleri öneriliyor.",
+      "whatChanged": "Hastalık tanımı dışlayıcı alkol odaklı yaklaşımdan metabolik risk merkezli yaklaşıma kaydı.",
+      "clinicalImpact": "Literatür, hasta iletişimi ve guideline dili değiştiği için yeni terminolojiye adaptasyon önemlidir.",
+      "changeType": "changedTerminology",
+      "importance": "practiceChanging",
+      "evidenceLevel": "AASLD 2024",
+      "tags": [
+        "MASLD",
+        "MASH",
+        "terminology"
+      ],
+      "sourceIds": [
+        "aasld_nafld_2018",
+        "aasld_masld_2024"
+      ],
+      "relevantSetting": [
+        "outpatient",
+        "exam"
+      ],
+      "examRelevant": true
+    },
+    {
+      "id": "fib4_first_line",
+      "title": "FIB-4 ilk basamak risk değerlendirmesinde daha merkezi hale geldi",
+      "summary": "FIB-4, ileri fibrozis riskini belirlemede temel ilk basamak araç olarak vurgulanıyor.",
+      "oldRecommendation": "Fibrozis değerlendirmesi daha heterojen stratejilerle yapılıyordu.",
+      "newRecommendation": "AASLD, ilk basamakta FIB-4 ile risk sınıflaması yapılmasını öneriyor.",
+      "whatChanged": "FIB-4 daha standart ve algoritmik şekilde kullanılmaya başlandı.",
+      "clinicalImpact": "Gereksiz hepatoloji yönlendirmeleri azalırken yüksek riskli hastalar daha erken saptanabilir.",
+      "changeType": "expandedIndication",
+      "importance": "high",
+      "evidenceLevel": "AASLD 2024",
+      "tags": [
+        "FIB-4",
+        "fibrosis",
+        "MASLD"
+      ],
+      "sourceIds": [
+        "aasld_masld_2024"
+      ],
+      "relevantSetting": [
+        "outpatient",
+        "exam"
+      ],
+      "examRelevant": true
+    },
+    {
+      "id": "weight_loss_and_glp1",
+      "title": "Kilo kaybı ve inkretin tedavileri daha fazla ön plana çıktı",
+      "summary": "GLP-1 temelli tedaviler ve kilo kaybı hedefleri daha güçlü vurgulanıyor.",
+      "oldRecommendation": "Tedavinin ana odağı yaşam tarzı değişikliği ve kilo kaybıydı.",
+      "newRecommendation": "Yeni yaklaşım, kilo kaybını merkezi hedef olarak korurken GLP-1 agonistleri gibi ajanların potansiyel rolünü daha görünür hale getiriyor.",
+      "whatChanged": "Farmakolojik obezite tedavileri MASH yönetiminde daha önemli hale geldi.",
+      "clinicalImpact": "Obezite tedavisi ve hepatoloji pratiği daha yakın entegre hale geliyor.",
+      "changeType": "expandedIndication",
+      "importance": "high",
+      "evidenceLevel": "AASLD 2024",
+      "tags": [
+        "GLP-1",
+        "weight loss",
+        "obesity"
+      ],
+      "sourceIds": [
+        "aasld_masld_2024"
+      ],
+      "relevantSetting": [
+        "outpatient",
+        "exam"
+      ],
+      "examRelevant": true
+    }
+  ]
+}
