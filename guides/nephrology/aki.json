@@ -1,0 +1,172 @@
+{
+  "schemaVersion": 1,
+  "id": "acute_kidney_injury",
+  "title": "Akut Böbrek Hasarı",
+  "specialty": "Nefroloji",
+  "lastUpdated": "2026-05-16",
+  "overview": "KDIGO 2012 Akut Böbrek Hasarı kılavuzundan daha yeni AKI/AKD yaklaşımına geçişte öne çıkan klinik değişiklikler. Yeni KDIGO AKI/AKD dokümanı public review draft niteliğindedir; bu nedenle öneriler final kılavuz değil, taslak temelli güncelleme olarak ele alınmalıdır.",
+  "sources": [
+    {
+      "id": "kdigo_aki_2012",
+      "name": "KDIGO Clinical Practice Guideline for Acute Kidney Injury",
+      "organization": "KDIGO",
+      "year": 2012,
+      "url": "https://kdigo.org/wp-content/uploads/2016/10/KDIGO-2012-AKI-Guideline-English.pdf",
+      "version": "2012"
+    },
+    {
+      "id": "kdigo_aki_akd_2026_draft",
+      "name": "KDIGO Clinical Practice Guideline for Acute Kidney Injury and Acute Kidney Disease Public Review Draft",
+      "organization": "KDIGO",
+      "year": 2026,
+      "url": "https://kdigo.org/wp-content/uploads/2026/03/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026.pdf",
+      "version": "Public review draft"
+    }
+  ],
+  "updates": [
+    {
+      "id": "aki_to_akd_continuum",
+      "title": "AKI, daha geniş AKD sürekliliği içinde yeniden konumlandırıldı",
+      "summary": "Yeni yaklaşım AKI’yi izole ve kısa süreli bir olaydan çok, akut böbrek hastalığı ve bozuklukları spektrumu içinde değerlendiriyor.",
+      "oldRecommendation": "KDIGO 2012’de AKI tanımı ve evrelemesi temel olarak kısa zaman penceresinde serum kreatinin artışı ve idrar çıkışı azalmasına dayanıyordu.",
+      "newRecommendation": "Yeni AKI/AKD yaklaşımı, 3 aydan kısa süren böbrek yapı veya fonksiyon bozukluklarını AKD çatısı altında ele alıyor ve AKI’yi bu sürekliliğin bir alt kümesi olarak konumlandırıyor.",
+      "whatChanged": "Model, yalnızca akut kreatinin artışına odaklanan AKI yaklaşımından AKI-AKD-CKD geçişini izleyen daha geniş bir çerçeveye kaydı.",
+      "clinicalImpact": "AKI sonrası kreatinin düzelmiş görünse bile hasta tamamen kapanmış kabul edilmemeli; böbrek toparlanması, kalıcı AKD ve CKD’ye ilerleme riski açısından takip planlanmalıdır.",
+      "changeType": "changedTerminology",
+      "importance": "practiceChanging",
+      "evidenceLevel": "KDIGO taslak konsensüs çerçevesi",
+      "tags": [
+        "AKI",
+        "AKD",
+        "CKD transition",
+        "follow-up"
+      ],
+      "sourceIds": [
+        "kdigo_aki_2012",
+        "kdigo_aki_akd_2026_draft"
+      ],
+      "relevantSetting": [
+        "ward",
+        "icu",
+        "emergency",
+        "exam"
+      ],
+      "examRelevant": true
+    },
+    {
+      "id": "post_aki_followup_emphasis",
+      "title": "AKI sonrası takip vurgusu güçlendi",
+      "summary": "AKI sonrası CKD, tekrar AKI ve kardiyovasküler risk artışı nedeniyle taburculuk sonrası takip daha merkezi hale geldi.",
+      "oldRecommendation": "KDIGO 2012, AKI geçiren hastaların 3 ay sonra AKI rezolüsyonu, yeni CKD veya mevcut CKD’de kötüleşme açısından değerlendirilmesini öneriyordu.",
+      "newRecommendation": "Yeni AKI/AKD yaklaşımı, AKI sonrası böbrek toparlanması, persistan AKD, tekrar AKI riski, ilaç güvenliği ve CKD progresyonunun daha aktif izlenmesini vurguluyor.",
+      "whatChanged": "3. ay kontrolü korunmakla birlikte, takip yalnızca tek seferlik kreatinin kontrolü değil; risk tabakalı, aktif bir iyileşme ve progresyon izlemi olarak ele alınıyor.",
+      "clinicalImpact": "Taburculukta renal fonksiyon, albüminüri, nefrotoksik ilaçlar, RAAS inhibitörü/SGLT2 inhibitörü gibi ilaçların yeniden başlama zamanı ve nefroloji kontrol ihtiyacı planlanmalıdır.",
+      "changeType": "practicePoint",
+      "importance": "high",
+      "evidenceLevel": "KDIGO taslak konsensüs çerçevesi",
+      "tags": [
+        "post-AKI care",
+        "CKD risk",
+        "albuminuria",
+        "medication review"
+      ],
+      "sourceIds": [
+        "kdigo_aki_2012",
+        "kdigo_aki_akd_2026_draft"
+      ],
+      "relevantSetting": [
+        "ward",
+        "icu",
+        "outpatient",
+        "exam"
+      ],
+      "examRelevant": true
+    },
+    {
+      "id": "biomarkers_contextual_use",
+      "title": "Biyobelirteçler seçilmiş klinik bağlamlarda daha görünür hale geldi",
+      "summary": "Yeni AKI yaklaşımı, özellikle yüksek riskli hastane ve yoğun bakım hastalarında böbrek stres ve hasar biyobelirteçlerini yardımcı araçlar olarak ele alıyor.",
+      "oldRecommendation": "KDIGO 2012’de AKI tanı ve evrelemesi temel olarak serum kreatinin ve idrar çıkışına dayanıyordu.",
+      "newRecommendation": "Yeni AKI/AKD yaklaşımı, biyobelirteçleri kreatinin ve idrar çıkışının yerine değil; seçilmiş durumlarda erken böbrek stresi veya hasarını saptamaya yardımcı ek araçlar olarak değerlendiriyor.",
+      "whatChanged": "Biyobelirteçler araştırma düzeyindeki ilgi alanından, belirli klinik senaryolarda risk zenginleştirme ve erken uyarı aracı olarak tartışılan bir konuma geldi.",
+      "clinicalImpact": "Biyobelirteçler özellikle yoğun bakım, majör cerrahi veya yüksek riskli nefrotoksik maruziyetlerde erken risk belirleme sağlayabilir; ancak rutin ve evrensel kullanım halen standart yaklaşım değildir.",
+      "changeType": "expandedIndication",
+      "importance": "moderate",
+      "evidenceLevel": "KDIGO taslak konsensüs çerçevesi",
+      "tags": [
+        "biomarkers",
+        "TIMP-2 IGFBP7",
+        "NGAL",
+        "early detection"
+      ],
+      "sourceIds": [
+        "kdigo_aki_2012",
+        "kdigo_aki_akd_2026_draft"
+      ],
+      "relevantSetting": [
+        "icu",
+        "ward",
+        "exam"
+      ],
+      "examRelevant": true
+    },
+    {
+      "id": "fluid_strategy_refined",
+      "title": "Sıvı tedavisi, hipoperfüzyon ve sıvı yükü dengesine göre daha bireyselleştirildi",
+      "summary": "Yeni yaklaşım, başlangıç resüsitasyonundan sonra devam eden sıvı yüklenmesinin de böbrek ve hasta prognozu için zararlı olabileceğini daha fazla vurguluyor.",
+      "oldRecommendation": "KDIGO 2012, AKI riski olan veya AKI gelişmiş hastalarda intravasküler volüm genişletme için kolloidler yerine izotonik kristalloidleri öneriyordu.",
+      "newRecommendation": "Yeni AKI/AKD yaklaşımı, hemodinamik optimizasyonu sürdürürken sıvı yanıtlılığının tekrar değerlendirilmesini, persistan pozitif sıvı dengesinden kaçınmayı ve uygun hastada deresüsitasyonu vurguluyor.",
+      "whatChanged": "Odak yalnızca kristalloid-kolloid seçiminden, resüsitasyon-stabilizasyon-deresüsitasyon evrelerinde dinamik sıvı yönetimine kaydı.",
+      "clinicalImpact": "Sepsis veya yoğun bakım hastasında sıvı tedavisi tek seferlik karar değildir; perfüzyon, venöz konjesyon, oksijenasyon, idrar çıkışı ve sıvı dengesi sık aralıklarla yeniden değerlendirilmelidir.",
+      "changeType": "practicePoint",
+      "importance": "high",
+      "evidenceLevel": "KDIGO taslak konsensüs çerçevesi",
+      "tags": [
+        "fluids",
+        "crystalloids",
+        "fluid overload",
+        "ICU"
+      ],
+      "sourceIds": [
+        "kdigo_aki_2012",
+        "kdigo_aki_akd_2026_draft"
+      ],
+      "relevantSetting": [
+        "icu",
+        "emergency",
+        "ward",
+        "exam"
+      ],
+      "examRelevant": true
+    },
+    {
+      "id": "rrt_timing_individualized",
+      "title": "RRT zamanlamasında tek kreatinin eşiği yerine klinik bağlam korunuyor",
+      "summary": "Yeni kanıtlar, böbrek replasman tedavisinin yalnızca kreatinin veya üre düzeyine göre değil, komplikasyonlar ve klinik gidişe göre başlanması gerektiğini destekliyor.",
+      "oldRecommendation": "KDIGO 2012, hayatı tehdit eden sıvı, elektrolit ve asit-baz bozukluklarında RRT’nin acil başlanmasını; bunun dışında tek başına BUN veya kreatinin eşiği yerine klinik bağlamın dikkate alınmasını öneriyordu.",
+      "newRecommendation": "Yeni AKI/AKD yaklaşımı, RRT başlangıcında AKI şiddeti, komplikasyonlar, hastalığın gidişi, toparlanma olasılığı, hemodinami ve hasta hedeflerinin birlikte değerlendirilmesini sürdürüyor.",
+      "whatChanged": "Bu alanda temel prensip değişmedi; ancak randomize RRT zamanlama çalışmaları sonrası erken-rutin diyaliz yerine bireyselleştirilmiş yaklaşım daha da güçlendi.",
+      "clinicalImpact": "Kreatinin çok yüksek diye otomatik diyaliz başlanmamalı; dirençli hiperkalemi, ciddi asidoz, volüm yükü, üremik komplikasyon, toksin uzaklaştırma ihtiyacı ve klinik trend birlikte değerlendirilmelidir.",
+      "changeType": "noMajorChange",
+      "importance": "high",
+      "evidenceLevel": "KDIGO taslak konsensüs çerçevesi",
+      "tags": [
+        "RRT",
+        "dialysis",
+        "timing",
+        "ICU"
+      ],
+      "sourceIds": [
+        "kdigo_aki_2012",
+        "kdigo_aki_akd_2026_draft"
+      ],
+      "relevantSetting": [
+        "icu",
+        "ward",
+        "emergency",
+        "exam"
+      ],
+      "examRelevant": true
+    }
+  ]
+}
