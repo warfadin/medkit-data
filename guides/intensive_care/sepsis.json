@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "id": "sepsis",
+  "title": "Sepsis",
+  "specialty": "Yoğun Bakım",
+  "lastUpdated": "2026-05-17",
+  "overview": "Surviving Sepsis Campaign 2016 ve 2021 önerileri arasındaki klinik açıdan önemli değişiklikler.",
+  "sources": [
+    {
+      "id": "ssc_2016",
+      "name": "Surviving Sepsis Campaign International Guidelines 2016",
+      "organization": "Surviving Sepsis Campaign",
+      "year": 2016,
+      "url": "https://www.sccm.org/",
+      "version": "SSC"
+    },
+    {
+      "id": "ssc_2021",
+      "name": "Surviving Sepsis Campaign International Guidelines 2021",
+      "organization": "Surviving Sepsis Campaign",
+      "year": 2021,
+      "url": "https://www.sccm.org/",
+      "version": "SSC"
+    }
+  ],
+  "updates": [
+    {
+      "id": "balanced_crystalloids",
+      "title": "Dengeli kristalloidler daha fazla öneriliyor",
+      "summary": "Yeni SSC önerileri dengeli kristalloidleri daha görünür şekilde destekliyor.",
+      "oldRecommendation": "2016 kılavuzunda kristalloid kullanımı öneriliyordu ancak dengeli kristalloid vurgusu daha sınırlıydı.",
+      "newRecommendation": "2021 SSC, sepsis ve septik şokta dengeli kristalloidleri tercih etmeyi öneriyor.",
+      "whatChanged": "Kristalloid tercihi daha spesifik hale geldi.",
+      "clinicalImpact": "Özellikle yoğun bakım ve AKI riski olan hastalarda hiperkloremik yük azaltılabilir.",
+      "changeType": "changedDrugOrDose",
+      "importance": "high",
+      "evidenceLevel": "SSC 2021",
+      "tags": [
+        "fluids",
+        "balanced crystalloids",
+        "septic shock"
+      ],
+      "sourceIds": [
+        "ssc_2016",
+        "ssc_2021"
+      ],
+      "relevantSetting": [
+        "icu",
+        "emergency",
+        "exam"
+      ],
+      "examRelevant": true
+    },
+    {
+      "id": "capillary_refill",
+      "title": "Kapiller geri dolum değerlendirmesi daha fazla öne çıktı",
+      "summary": "Periferik perfüzyon değerlendirmesi resüsitasyon hedeflerinde daha görünür hale geldi.",
+      "oldRecommendation": "Laktat temelli resüsitasyon daha baskın vurgulanıyordu.",
+      "newRecommendation": "SSC 2021, uygun hastalarda kapiller geri dolum süresinin dinamik değerlendirme aracı olarak kullanılabileceğini belirtiyor.",
+      "whatChanged": "Periferik perfüzyon göstergeleri resüsitasyon değerlendirmesine daha fazla entegre edildi.",
+      "clinicalImpact": "Yatak başı değerlendirme önem kazandı.",
+      "changeType": "practicePoint",
+      "importance": "moderate",
+      "evidenceLevel": "SSC 2021",
+      "tags": [
+        "capillary refill",
+        "resuscitation",
+        "perfusion"
+      ],
+      "sourceIds": [
+        "ssc_2021"
+      ],
+      "relevantSetting": [
+        "icu",
+        "emergency",
+        "exam"
+      ],
+      "examRelevant": true
+    },
+    {
+      "id": "vasopressor_timing",
+      "title": "Erken vazopressör yaklaşımı daha fazla vurgulandı",
+      "summary": "Persistan hipotansiyonda gecikmiş vazopressör yerine daha erken norepinefrin yaklaşımı öne çıktı.",
+      "oldRecommendation": "2016 yaklaşımında sıvı resüsitasyonu sonrası vazopressör başlanıyordu.",
+      "newRecommendation": "2021 SSC, uygun hastalarda uzun süreli aşırı sıvı yüklenmesi yerine erken norepinefrin başlanmasını destekliyor.",
+      "whatChanged": "Sıvı ve vazopressör dengesi daha dinamik hale geldi.",
+      "clinicalImpact": "Aşırı pozitif sıvı dengesi ve organ konjesyonu azaltılabilir.",
+      "changeType": "practicePoint",
+      "importance": "practiceChanging",
+      "evidenceLevel": "SSC 2021",
+      "tags": [
+        "norepinephrine",
+        "shock",
+        "fluids"
+      ],
+      "sourceIds": [
+        "ssc_2016",
+        "ssc_2021"
+      ],
+      "relevantSetting": [
+        "icu",
+        "emergency",
+        "exam"
+      ],
+      "examRelevant": true
+    }
+  ]
+}
