@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "chronic_kidney_disease",
+  "title": "Kronik Böbrek Hastalığı",
+  "specialty": "Nefroloji",
+  "lastUpdated": "2026-05-17",
+  "overview": "KDIGO 2012’den KDIGO 2024’e geçişte kronik böbrek hastalığı yönetimindeki klinik açıdan önemli değişiklikler.",
+  "sources": [
+    {
+      "id": "kdigo_ckd_2012",
+      "name": "KDIGO Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease",
+      "organization": "KDIGO",
+      "year": 2012,
+      "url": "https://kdigo.org/wp-content/uploads/2017/02/KDIGO_2012_CKD_GL.pdf",
+      "version": "KDIGO"
+    },
+    {
+      "id": "kdigo_ckd_2024",
+      "name": "KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease",
+      "organization": "KDIGO",
+      "year": 2024,
+      "url": "https://kdigo.org/guidelines/ckd-evaluation-and-management/",
+      "version": "KDIGO"
+    }
+  ],
+  "updates": [
+    {
+      "id": "ckd_risk_based_management",
+      "title": "CKD yönetiminde risk temelli yaklaşım güçlendi",
+      "summary": "KDIGO 2024, yalnızca eGFR evresine değil; albuminüri ve progresyon riskine dayalı yönetimi daha merkezi hale getirdi.",
+      "oldRecommendation": "KDIGO 2012’de CKD sınıflaması eGFR ve albuminüri kategorilerini içeriyordu ancak klinik karar süreçlerinde risk tabakalama bugünkü kadar ön planda değildi.",
+      "newRecommendation": "KDIGO 2024, CKD progresyonu, böbrek yetmezliği ve kardiyovasküler olay riskine göre daha aktif risk tabakalama öneriyor.",
+      "whatChanged": "CKD artık yalnızca GFR evresiyle değil; gelecekteki renal ve kardiyovasküler risk üzerinden değerlendiriliyor.",
+      "clinicalImpact": "Takip sıklığı, nefroloji konsültasyonu ve tedavi yoğunluğu bireysel risk düzeyine göre belirlenmelidir.",
+      "changeType": "practicePoint",
+      "importance": "practiceChanging",
+      "evidenceLevel": "KDIGO 2024",
+      "tags": [
+        "CKD",
+        "risk stratification",
+        "albuminuria",
+        "eGFR"
+      ],
+      "sourceIds": [
+        "kdigo_ckd_2012",
+        "kdigo_ckd_2024"
+      ],
+      "relevantSetting": [
+        "outpatient",
+        "ward",
+        "exam"
+      ],
+      "examRelevant": true
+    },
+    {
+      "id": "kf_re_routine_use",
+      "title": "KFRE kullanımı daha fazla öneriliyor",
+      "summary": "KDIGO 2024, böbrek yetmezliği risk tahmini için KFRE kullanımını daha görünür hale getirdi.",
+      "oldRecommendation": "KDIGO 2012’de böbrek yetmezliği risk hesaplayıcıları rutin pratiğin merkezi parçası değildi.",
+      "newRecommendation": "KDIGO 2024, uygun hastalarda Kidney Failure Risk Equation kullanımını öneriyor.",
+      "whatChanged": "Risk hesaplayıcıları destekleyici araç olmaktan çıkıp klinik karar süreçlerine daha fazla entegre edildi.",
+      "clinicalImpact": "Nefroloji yönlendirmesi ve renal replasman planlaması daha erken ve kişiselleştirilmiş yapılabilir.",
+      "changeType": "expandedIndication",
+      "importance": "high",
+      "evidenceLevel": "KDIGO 2024",
+      "tags": [
+        "KFRE",
+        "risk prediction",
+        "dialysis planning"
+      ],
+      "sourceIds": [
+        "kdigo_ckd_2024"
+      ],
+      "relevantSetting": [
+        "outpatient",
+        "exam"
+      ],
+      "examRelevant": true
+    },
+    {
+      "id": "sglt2_ckd_expansion",
+      "title": "SGLT2 inhibitörlerinin CKD kullanım alanı genişledi",
+      "summary": "SGLT2 inhibitörleri artık yalnızca diyabet tedavisi değil, CKD progresyonunu azaltan temel nefroprotektif ajanlar olarak değerlendiriliyor.",
+      "oldRecommendation": "KDIGO 2012 döneminde SGLT2 inhibitörleri CKD yönetiminde yer almıyordu.",
+      "newRecommendation": "KDIGO 2024, uygun CKD hastalarında SGLT2 inhibitörlerini temel tedavi yaklaşımının önemli parçası olarak öneriyor.",
+      "whatChanged": "SGLT2 inhibitörleri diyabet ilacı olmaktan çıkarak renal ve kardiyovasküler koruyucu tedavi konumuna geldi.",
+      "clinicalImpact": "Albuminürik CKD hastalarında progresyon, kalp yetersizliği ve mortalite riski azaltılabilir.",
+      "changeType": "newRecommendation",
+      "importance": "practiceChanging",
+      "evidenceLevel": "KDIGO 2024",
+      "tags": [
+        "SGLT2",
+        "CKD",
+        "nephroprotection"
+      ],
+      "sourceIds": [
+        "kdigo_ckd_2024"
+      ],
+      "relevantSetting": [
+        "outpatient",
+        "ward",
+        "exam"
+      ],
+      "examRelevant": true
+    }
+  ]
+}
