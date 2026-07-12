@@ -1,188 +1,194 @@
 {
   "title": "BUÜ Hastane Yemek Menüsü",
   "source": "BUÜ Hastanesi Aylık Hasta/Refakatçi Personel Normal Menü Formu",
-  "month": 6,
+  "month": 7,
   "year": 2026,
   "days": [
     {
-      "date": "2026-06-01",
-      "weekday": "Pazartesi",
-      "lunch": ["Etli Türlü", "Abant Çorba", "Peynirli Su Böreği", "Ayran"],
-      "dinner": ["Aynalı Kebap", "Kremalı Mantar Çorba", "Peynirli Erişte", "Meyve"]
-    },
-    {
-      "date": "2026-06-02",
-      "weekday": "Salı",
-      "lunch": ["Piliç Döner / Pirinç Pilavı", "Mercimek Çorba", "Ayran", "Cevizli Tel Kadayıf"],
-      "dinner": ["Kıymalı Ispanak / Yoğurt", "Sebze Çorba", "Soslu Makarna", "Meyve Suyu"]
-    },
-    {
-      "date": "2026-06-03",
+      "date": "2026-07-01",
       "weekday": "Çarşamba",
-      "lunch": ["Karnıyarık", "Tavuksuyu Çorba", "Tel Şehriyeli Bulgur Pilavı", "Cacık"],
-      "dinner": ["Pideli Köfte", "Çiftlik Çorba", "Çoban Salata", "Haşhaşlı Revani"]
+      "lunch": ["Kıymalı Patlıcan Musakka", "Tel Şehriyeli Bulgur Pilavı", "Cacık", "Tulumba Tatlısı"],
+      "dinner": ["Etli Çoban Kavurma", "Tarhana Çorba", "Sebzeli Pirinç Pilavı", "Ayran"]
     },
     {
-      "date": "2026-06-04",
+      "date": "2026-07-02",
       "weekday": "Perşembe",
-      "lunch": ["Mantı", "Ezogelin Çorba", "Salata Günü", "Meyve"],
-      "dinner": ["Fırın Piliç Baget / Pirinç Pilavı", "Tarhana Çorba", "Ayran", "Meyve"]
+      "lunch": ["Karışık Tahıllı Piliç / Soslu Makarna", "Çiftlik Çorba", "Çoban Salata", "Gazoz"],
+      "dinner": ["Kıymalı Fırın Patates", "Naneli Yoğurt Çorba", "Salata Günü", "Aşure / Şekerpare"]
     },
     {
-      "date": "2026-06-05",
+      "date": "2026-07-03",
       "weekday": "Cuma",
-      "lunch": ["Terbiyeli Köfte", "Fırın Makarna", "Ayran", "Profiterol"],
-      "dinner": ["Kıymalı Kabak Dolma / Yoğurt", "Naneli Yoğurt Çorba", "Mevsim Salata", "Tulumba Tatlısı"]
+      "lunch": ["Sebzeli Kebap", "Tutmaç Çorba", "Peynirli Su Böreği", "Ayran"],
+      "dinner": ["Terbiyeli Köfte", "Peynirli Erişte", "Ayran", "Meyve"]
     },
     {
-      "date": "2026-06-06",
+      "date": "2026-07-04",
       "weekday": "Cumartesi",
-      "lunch": ["Kaşarlı Piliç Pane / Domates", "Mantı Çorba", "Yoğurtlu Karışık Kızartma", "Meyve"],
-      "dinner": ["Kıymalı Bezelye", "Tavuksuyu Çorba", "Soslu Makarna", "Yoğurt"]
+      "lunch": ["Kıymalı Kabak Dolma / Yoğurt", "Ezogelin Çorba", "Çoban Salata", "Turunç Tatlısı"],
+      "dinner": ["Fırın Piliç Baget / Domates-Biber Garni", "Mantı Çorba", "Yoğurtlu Kuskus Salatası", "Meyve"]
     },
     {
-      "date": "2026-06-07",
+      "date": "2026-07-05",
       "weekday": "Pazar",
-      "lunch": ["Haşlama Et", "Ispanaklı Gül Böreği", "Ayran", "Kemalpaşa Tatlısı"],
-      "dinner": ["Fırın Piliç Pirzola / Elma Dilim Patates", "Ezogelin Çorba", "Yoğurtlu Kuskus Salatası", "Meyve"]
+      "lunch": ["İsveç Köfte / Püre", "Naneli Yoğurt Çorba", "Karışık Zeytinyağlı Sebze", "Meyve"],
+      "dinner": ["Karışık Izgara / Domates", "Sebzeli Pirinç Pilavı", "Ayran", "Profiterol"]
     },
     {
-      "date": "2026-06-08",
+      "date": "2026-07-06",
       "weekday": "Pazartesi",
-      "lunch": ["Kıymalı Nohut", "Buhara Pilavı", "Cacık", "Süt Helva"],
-      "dinner": ["Arnavut Ciğeri / Küp Patates", "Mercimek Çorba", "Çoban Salata", "Fıstıklı İrmik Helva"]
+      "lunch": ["Etli Kuru Fasulye", "Tel Şehriyeli Bulgur Pilavı", "Cacık", "Süt Helva"],
+      "dinner": ["Et Sote / Püre", "Ezogelin Çorba", "Makarna / Yoğurt", "Meyve"]
     },
     {
-      "date": "2026-06-09",
+      "date": "2026-07-07",
       "weekday": "Salı",
-      "lunch": ["Aynalı Kebap", "Kremalı Mantar Çorba", "Peynirli Erişte", "Meyve"],
-      "dinner": ["Izgara Köfte / Haşlanmış Sebze", "Düğün Çorba", "Mevsim Salata", "Saray Sarma"]
+      "lunch": ["Et Döner / Pirinç Pilavı", "Tarhana Çorba", "Ayran", "Meyve"],
+      "dinner": ["Izgara Köfte / Domates", "Arpa Şehriye Çorba", "Yoğurtlu Karışık Kızartma", "Cevizli Baklava"]
     },
     {
-      "date": "2026-06-10",
+      "date": "2026-07-08",
       "weekday": "Çarşamba",
-      "lunch": ["Etli Taze Fasulye", "Tarhana Çorba", "Makarna Günü", "Meyve"],
-      "dinner": ["Mantı", "Ezogelin Çorba", "Çoban Salata", "Meyve"]
+      "lunch": ["Fırın Piliç Pirzola / Domates Biber Garni", "Ezogelin Çorba", "Yoğurtlu Makarna Salatası", "Meyve"],
+      "dinner": ["Etli Türlü", "Yayla Çorbası", "Cevizli Erişte", "Meyve"]
     },
     {
-      "date": "2026-06-11",
+      "date": "2026-07-09",
       "weekday": "Perşembe",
-      "lunch": ["Kıymalı Patlıcan Musakka", "Arpa Şehriyeli Pirinç Pilavı", "Yoğurt", "Ballı Balım"],
-      "dinner": ["Karışık Tahıllı Piliç / Pesto Soslu Makarna", "Kremalı Mantar Çorba", "Karışık Salata", "Meyve"]
+      "lunch": ["Kıymalı Biber Dolma / Yoğurt", "Tavuksuyu Çorba", "Çoban Salata", "Tatlı Günü"],
+      "dinner": ["Kıymalı Cantık / Mevsim Salata", "Mercimek Çorba", "Ayran", "Fırın Sütlaç"]
     },
     {
-      "date": "2026-06-12",
+      "date": "2026-07-10",
       "weekday": "Cuma",
-      "lunch": ["Piliç Tantuni", "Sebze Çorba", "Şehriye Pilavı", "Meyve"],
-      "dinner": ["Kıymalı Sebze Graten", "Mercimek Çorba", "Yoğurtlu Kuskus Salata", "Profiterol"]
+      "lunch": ["Patlıcan Kebap", "Tel Şehriyeli Bulgur Pilavı", "Cacık", "Meyve"],
+      "dinner": ["Kaşarlı Piliç Pane / Domates", "Çiftlik Çorba", "Soslu Makarna", "Gazoz"]
     },
     {
-      "date": "2026-06-13",
+      "date": "2026-07-11",
       "weekday": "Cumartesi",
-      "lunch": ["Kıymalı Fırın Patates", "Tutmaç Çorba", "Ispanak Borani", "Çikolata Rüyası"],
-      "dinner": ["Piliç Döner / Pirinç Pilavı", "Tarhana Çorba", "Ayran", "Meyve"]
+      "lunch": ["Kıymalı Bezelye", "Düğün Çorba", "Şehriyeli Pirinç Pilavı", "Yoğurt"],
+      "dinner": ["Et Haşlama", "Tutmaç Çorba", "Yoğurtlu Karışık Kızartma", "Meyve"]
     },
     {
-      "date": "2026-06-14",
+      "date": "2026-07-12",
       "weekday": "Pazar",
-      "lunch": ["Kıymalı Kabak Dolma / Yoğurt", "Mercimek Çorba", "Çoban Salata", "Cevizli Baklava"],
-      "dinner": ["Etli Çoban Kavurma / Domates", "Ezogelin Çorba", "Yoğurtlu Karışık Kızartma", "Prenses Tatlısı"]
+      "lunch": ["Karışık Izgara / Elma Dilim Patates", "Tavuksuyu Çorba", "Mevsim Salata", "Fırın Sütlaç"],
+      "dinner": ["Piliç Şinitzel / Domates", "Tarhana Çorba", "Zeytinyağlı Taze Fasulye", "Islak Kek"]
     },
     {
-      "date": "2026-06-15",
+      "date": "2026-07-13",
       "weekday": "Pazartesi",
-      "lunch": ["Karışık Tahıllı Piliç / Makarna", "Çiftlik Çorba", "Karışık Salata", "Gazoz"],
-      "dinner": ["Kıymalı Ispanak / Yoğurt", "Buğdaylı Domates Çorba", "Cevizli Erişte", "Meyve"]
+      "lunch": ["Piliç Döner / Pirinç Pilavı", "Mercimek Çorba", "Ayran", "Mozaik Pasta"],
+      "dinner": ["Patlıcan Kebap", "Kremalı Mantar Çorba", "Yoğurtlu Makarna", "Meyve"]
     },
     {
-      "date": "2026-06-16",
+      "date": "2026-07-14",
       "weekday": "Salı",
-      "lunch": ["Terbiyeli Köfte", "Fırın Makarna", "Ayran", "Tiramisu"],
-      "dinner": ["Bursa Kebabı", "Tavuksuyu Çorba", "Akdeniz Salata", "Kemalpaşa Tatlısı"]
+      "lunch": ["Pideli Köfte", "Düğün Çorba", "Akdeniz Salata", "Meyve"],
+      "dinner": ["Kıymalı Biber Dolma / Yoğurt", "Ezogelin Çorba", "Çoban Salata", "Süt Helva"]
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-07-15",
       "weekday": "Çarşamba",
-      "lunch": ["Karnıyarık", "Mercimek Çorba", "Yıldız Şehriyeli Pirinç Pilavı", "Cacık"],
-      "dinner": ["Domatesli Biberli Fırın Piliç Baget", "Kremalı Mantar Çorba", "Soslu Makarna", "Meyve"]
+      "lunch": ["Sebzeli Kebap", "Peynirli Puf Böreği", "Ayran", "Meyve"],
+      "dinner": ["Karışık Tahıllı Piliç / Soslu Makarna", "Yayla Çorba", "Mevsim Salata", "Meyve"]
     },
     {
-      "date": "2026-06-18",
+      "date": "2026-07-16",
       "weekday": "Perşembe",
-      "lunch": ["Haşlama Et", "Tutmaç Çorba", "Salata Günü", "Meyve"],
-      "dinner": ["Etli Bezelye", "Sebze Çorba", "Tel Şehriyeli Bulgur Pilavı", "Cacık"]
+      "lunch": ["Domatesli Biberli Fırın Piliç But", "Tarhana Çorba", "İç Pilav", "Ayran"],
+      "dinner": ["İsveç Köfte / Püre", "Şehriye Çorba", "Yoğurtlu Karışık Kızartma", "Ballı Balım"]
     },
     {
-      "date": "2026-06-19",
+      "date": "2026-07-17",
       "weekday": "Cuma",
-      "lunch": ["Fırın Piliç Pirzola / Pirinç Pilavı", "Ezogelin Çorba", "Ayran", "Mozaik Pasta"],
-      "dinner": ["Aynalı Kebap", "Vitamin Çorba", "Peynirli Erişte", "Meyve"]
-    },
-    {
-      "date": "2026-06-20",
-      "weekday": "Cumartesi",
-      "lunch": ["Kadınbudu Köfte / Püre", "Mantı Çorba", "Zeytinyağlı Taze Fasulye", "Şekerpare"],
-      "dinner": ["Kıymalı Fırın Patates", "Yayla Çorba", "Salata Günü", "Meyve"]
-    },
-    {
-      "date": "2026-06-21",
-      "weekday": "Pazar",
-      "lunch": ["Kıymalı Sebze Graten", "Mercimek Çorba", "Yoğurtlu Makarna", "Meyve"],
-      "dinner": ["Fırın Piliç But / Domates Biber", "Nohutlu Pirinç Pilavı", "Ayran", "İrmik Helvası"]
-    },
-    {
-      "date": "2026-06-22",
-      "weekday": "Pazartesi",
-      "lunch": ["Bursa Kebabı", "Tarhana Çorba", "Çoban Salata", "Süt Helva"],
-      "dinner": ["Terbiyeli Köfte", "Peynirli Su Böreği", "Ayran", "Meyve"]
-    },
-    {
-      "date": "2026-06-23",
-      "weekday": "Salı",
-      "lunch": ["Etli Nohut", "Sebze Çorba", "Tel Şehriyeli Bulgur Pilavı", "Cacık"],
-      "dinner": ["Mantı", "Mercimek Çorba", "Çoban Salata", "Şöbiyet"]
-    },
-    {
-      "date": "2026-06-24",
-      "weekday": "Çarşamba",
-      "lunch": ["Etli Taze Fasulye", "Düğün Çorba", "Fırın Makarna", "Ayran"],
-      "dinner": ["Izgara Piliç Biftek / Karışık Haşlanmış Sebze", "Soslu Makarna", "Ayran", "Meyve"]
-    },
-    {
-      "date": "2026-06-25",
-      "weekday": "Perşembe",
-      "lunch": ["Kıymalı Karnıyarık", "Pirinç Pilavı", "Yoğurt", "Red Velvet"],
-      "dinner": ["Haşlama Et", "Ezogelin Çorba", "Cevizli Erişte", "Meyve"]
-    },
-    {
-      "date": "2026-06-26",
-      "weekday": "Cuma",
-      "lunch": ["Piliç Döner / Pirinç Pilavı", "Mercimek Çorba", "Ayran", "Meyve"],
+      "lunch": ["Mantı", "Ezogelin Çorba", "Çoban Salata", "Peynir Tatlısı"],
       "dinner": ["Etli Türlü", "Tavuksuyu Çorba", "Peynirli Su Böreği", "Meyve Suyu"]
     },
     {
-      "date": "2026-06-27",
+      "date": "2026-07-18",
       "weekday": "Cumartesi",
-      "lunch": ["Tas Kebap", "Peynirli Makarna", "Çoban Salata", "Meyve"],
-      "dinner": ["Kıymalı Cantık / Mevsim Salata", "Tarhana Çorba", "Ayran", "Kemalpaşa Tatlısı"]
+      "lunch": ["Kıymalı Bezelye", "Düğün Çorba", "Yoğurtlu Makarna", "Meyve"],
+      "dinner": ["Fırın Piliç Baget / Baharatlı Fırın Patates", "Nohutlu Pirinç Pilavı", "Ayran", "Prenses Tatlısı"]
     },
     {
-      "date": "2026-06-28",
+      "date": "2026-07-19",
       "weekday": "Pazar",
-      "lunch": ["Fırın Piliç Baget / Brokoli Havuç", "Ezogelin Çorba", "Nohutlu Pirinç Pilavı", "Cacık"],
-      "dinner": ["Kıymalı Patlıcan Musakka", "Naneli Yoğurt Çorba", "Bulgur Pilavı", "Yoğurt"]
+      "lunch": ["Kıymalı Karışık Dolma / Yoğurt", "Mercimek Çorba", "Akdeniz Salata", "Yoğurt Tatlısı"],
+      "dinner": ["Haşlama Et", "Tarhana Çorba", "Tel Şehriyeli Bulgur Pilavı", "Yoğurt"]
     },
     {
-      "date": "2026-06-29",
+      "date": "2026-07-20",
       "weekday": "Pazartesi",
-      "lunch": ["Izgara Köfte / Domates", "Şehriye Çorba", "Yoğurtlu Karışık Kızartma", "Fırın Sütlaç"],
-      "dinner": ["Karışık Tahıllı Piliç / Makarna", "Çiftlik Çorba", "Karışık Salata", "Gazoz"]
+      "lunch": ["Etli Nohut", "Arpa Şehriyeli Pirinç Pilavı", "Cacık", "Süt Helva"],
+      "dinner": ["Terbiyeli Köfte", "Peynirli Su Böreği", "Ayran", "Meyve"]
     },
     {
-      "date": "2026-06-30",
+      "date": "2026-07-21",
       "weekday": "Salı",
-      "lunch": ["Mantı", "Ezogelin Çorba", "Salata Günü", "Meyve"],
-      "dinner": ["Kıymalı Biber Dolma / Yoğurt", "Düğün Çorba", "Çoban Salata", "Prenses Tatlısı"]
+      "lunch": ["Kıymalı Karnıyarık", "Kremalı Mantar Çorba", "Bulgur Pilavı", "Yoğurt"],
+      "dinner": ["Etli Çoban Kavurma / Küp Patates", "Mercimek Çorba", "Salata Günü", "Karbeyaz Tatlısı"]
+    },
+    {
+      "date": "2026-07-22",
+      "weekday": "Çarşamba",
+      "lunch": ["Kaşarlı Piliç Pane / Domates", "Mantı Çorba", "Ayran", "Fırın Sütlaç"],
+      "dinner": ["Kıymalı Cantık / Mevsim Salata", "Düğün Çorba", "Ayran", "Meyve"]
+    },
+    {
+      "date": "2026-07-23",
+      "weekday": "Perşembe",
+      "lunch": ["İsveç Köfte / Püre", "Sebze Çorba", "Ispanak Borani", "Meyve"],
+      "dinner": ["Piliç Etli Çardak Kebap", "Tel Şehriyeli Pirinç Pilavı", "Yoğurt", "Kemalpaşa Tatlısı"]
+    },
+    {
+      "date": "2026-07-24",
+      "weekday": "Cuma",
+      "lunch": ["Karışık Tahıllı Piliç / Soslu Makarna", "Mercimek Çorba", "Çoban Salata", "Gazoz"],
+      "dinner": ["Etli Taze Fasulye", "Peşküten Çorba", "Cevizli Erişte", "Yoğurt"]
+    },
+    {
+      "date": "2026-07-25",
+      "weekday": "Cumartesi",
+      "lunch": ["Haşlama Et", "Şehriye Çorba", "Peynirli Su Böreği", "Ayran"],
+      "dinner": ["Mantı", "Ezogelin Çorba", "Çoban Salata", "Mozaik Pasta"]
+    },
+    {
+      "date": "2026-07-26",
+      "weekday": "Pazar",
+      "lunch": ["Piliç Etli Çoban Kavurma / Küp Patates", "Tarhana Çorba", "Makarna / Yoğurt", "Meyve"],
+      "dinner": ["Kıymalı Sebze Graten", "Anadolu Çorba", "Yoğurt", "Portakallı Salsa"]
+    },
+    {
+      "date": "2026-07-27",
+      "weekday": "Pazartesi",
+      "lunch": ["Bursa Kebabı", "Ezogelin Çorba", "Karışık Salata", "Karbeyaz Tatlısı"],
+      "dinner": ["Karnıyarık", "Sebze Çorba", "Yıldız Şehriyeli Pirinç Pilavı", "Cacık"]
+    },
+    {
+      "date": "2026-07-28",
+      "weekday": "Salı",
+      "lunch": ["Etli Türlü", "Düğün Çorba", "Yoğurtlu Makarna", "Meyve"],
+      "dinner": ["Karışık Tahıllı Piliç / Brokoli Havuç", "Tarhana Çorba", "Salata Günü", "Fırın Sütlaç"]
+    },
+    {
+      "date": "2026-07-29",
+      "weekday": "Çarşamba",
+      "lunch": ["Mantı", "Mercimek Çorba", "Zeytinyağlı Taze Fasulye", "Gazoz"],
+      "dinner": ["Etli Çoban Kavurma / Domates", "Vitamin Çorba", "Yoğurtlu Kabak Patlıcan Kızartma", "Meyve"]
+    },
+    {
+      "date": "2026-07-30",
+      "weekday": "Perşembe",
+      "lunch": ["Piliç Baget / Baharatlı Fırın Patates", "Tarhana Çorba", "Yoğurtlu Kuskus Salata", "Meyve"],
+      "dinner": ["Et Döner / Pirinç Pilavı", "Ezogelin Çorba", "Çoban Salata", "Süt Helva"]
+    },
+    {
+      "date": "2026-07-31",
+      "weekday": "Cuma",
+      "lunch": ["Terbiyeli Köfte", "Peynirli Puf Böreği", "Ayran", "Ballı Balım"],
+      "dinner": ["Kıymalı Biber Dolma / Yoğurt", "Tavuksuyu Çorba", "Akdeniz Salata", "Meyve"]
     }
   ]
 }
